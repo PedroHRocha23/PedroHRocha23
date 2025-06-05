@@ -1,16 +1,14 @@
-## Hi there 👋
+# Oi, eu sou o Pedro! 👋
 
-<!--
-**PedroHRocha23/PedroHRocha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Focado em desenvolvimento backend e entusiasta na área de inteligência artificial  
+🚀 Atualmente estou desenvolvendo minhas habilidades com Java e Spring  
 
-Here are some ideas to get you started:
+## 📊 Tecnologias
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pdrohenriquerocha/)
