@@ -1,4 +1,4 @@
-# Oi, eu sou o Pedro! 👋
+# Seja bem-vindo(a), eu sou o Pedro Rocha! 👋
 
 🎓 Estudante de Ciência da Computação  
 💻 Focado em desenvolvimento backend e entusiasta na área de inteligência artificial  
